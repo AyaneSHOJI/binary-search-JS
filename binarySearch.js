@@ -35,4 +35,4 @@ function binarySearch(array, target){
 //find the number "67"
 let data = [16, 17, 23, 29, 31, 42, 45, 58, 62, 66, 67, 71, 78, 83, 88];
 
-console.log("Target number index is at " + binarySearch([16, 17, 23, 29, 31, 42, 45, 58, 62, 66, 67, 71, 78, 83, 88], 17));
+console.log("Target number index is at " + binarySearch(data, 29));
