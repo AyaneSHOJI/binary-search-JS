@@ -1,4 +1,4 @@
-# binarySearch
+# Binary search with JavaScript
 
 Test project for better understanding binary search
 
